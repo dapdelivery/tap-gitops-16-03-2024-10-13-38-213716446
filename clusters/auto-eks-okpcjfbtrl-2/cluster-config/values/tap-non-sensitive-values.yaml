@@ -3,4 +3,4 @@ tap_install:
   values:
     profile: build
     ceip_policy_disclosed: TRUE
-    supply_chain: basic
+    supply_chain: testing_scanning
